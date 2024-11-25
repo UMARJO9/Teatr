@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="Menu-Finish-1">
-      <change afterPath="$PROJECT_DIR$/assets/css/contener-img-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/js.js" afterDir="false" />
+    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="IMG-HEADER">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thumb-slider__image.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/thumb-slider__image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/contener-img-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/contener-img-header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/poster__image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider__main-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thumb-slider__image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thumb-slider__image_2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +99,7 @@
       <workItem from="1732381888612" duration="102000" />
       <workItem from="1732381997782" duration="1749000" />
       <workItem from="1732388138258" duration="84000" />
-      <workItem from="1732552476865" duration="2548000" />
+      <workItem from="1732552476865" duration="4658000" />
     </task>
     <task id="LOCAL-00001" summary="frst_commite">
       <option name="closed" value="true" />
@@ -123,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732553786611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IMG-HEADER">
+      <option name="closed" value="true" />
+      <created>1732555870224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732555870224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +157,7 @@
     <MESSAGE value="frst_commite" />
     <MESSAGE value="Menu-Finish" />
     <MESSAGE value="Menu-Finish-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu-Finish-1" />
+    <MESSAGE value="IMG-HEADER" />
+    <option name="LAST_COMMIT_MESSAGE" value="IMG-HEADER" />
   </component>
 </project>

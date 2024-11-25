@@ -1,8 +1,9 @@
-.container {
+.container-1{
     display: grid;
     grid-template-columns: 3fr 1fr;
     gap: 20px;
     max-width: 1270px;
+    max-height: 720px;
     margin: 40px auto;
     padding: 20px 100px;
 }
@@ -28,7 +29,7 @@
 .event-card {
     display: flex;
     align-items: center;
-    background: #f9f9f9;
+    background: #DCDCDC;
     border-radius: 8px;
     padding: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
