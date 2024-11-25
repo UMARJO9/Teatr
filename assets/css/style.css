@@ -21,37 +21,3 @@ header h1 {
     font-size: 18px;
     margin: 100px;
 }
-
-nav ul.menu {
-    display: flex;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    left: -100px;
-}
-
-nav ul.menu li.menu-item {
-    position: relative;
-    margin-left: 15px;
-}
-
-nav ul.menu li.menu-item a {
-    text-decoration: none;
-    color: white;
-    padding: 5px 10px;
-    transition: background-color 0.3s ease;
-}
-
-nav ul.menu li.menu-item a:hover {
-    background-color: #444;
-    border-radius: 5px;
-}
-
-nav ul.menu li.menu-item:not(:last-child)::after {
-    content: "■";
-    display: inline-block;
-    transform: rotate(45deg);
-    margin-left: 15px;
-    color: white;
-}
