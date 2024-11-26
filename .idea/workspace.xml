@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="IMG-HEADER">
+    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="IMG-HEADER-FINISH">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/contener-img-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/contener-img-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/poster__image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/slider__main-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thumb-slider__image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thumb-slider__image_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +96,8 @@
       <workItem from="1732381888612" duration="102000" />
       <workItem from="1732381997782" duration="1749000" />
       <workItem from="1732388138258" duration="84000" />
-      <workItem from="1732552476865" duration="4658000" />
+      <workItem from="1732552476865" duration="5810000" />
+      <workItem from="1732590855690" duration="6242000" />
     </task>
     <task id="LOCAL-00001" summary="frst_commite">
       <option name="closed" value="true" />
@@ -133,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732555870224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="IMG-HEADER-FINISH">
+      <option name="closed" value="true" />
+      <created>1732557433655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732557433655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +164,7 @@
     <MESSAGE value="Menu-Finish" />
     <MESSAGE value="Menu-Finish-1" />
     <MESSAGE value="IMG-HEADER" />
-    <option name="LAST_COMMIT_MESSAGE" value="IMG-HEADER" />
+    <MESSAGE value="IMG-HEADER-FINISH" />
+    <option name="LAST_COMMIT_MESSAGE" value="IMG-HEADER-FINISH" />
   </component>
 </project>
