@@ -98,7 +98,9 @@ header h1 {
 }
 
 .event-info {
-    font-family: 'EB Garamond', serif;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
     flex: 1;
 }
 
@@ -137,4 +139,25 @@ header h1 {
 .buy-ticket:hover {
     background-color: #218838;
 }
+.event-img-card {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: 0;
+}
 
+.event-img-card span {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 14px;
+    color: #555;
+}
+.event-info h2{
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+}
+.event-info p {
+    font-size: 20px;
+}
