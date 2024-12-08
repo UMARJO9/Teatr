@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="CALENDAR AND NEWS -FINISH">
-      <change afterPath="$PROJECT_DIR$/afisha.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/footer.css" afterDir="false" />
+    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="Afisha and Contact finesh">
+      <change afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afisha.html" beforeDir="false" afterPath="$PROJECT_DIR$/afisha.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -109,7 +109,7 @@
       <workItem from="1733284094409" duration="360000" />
       <workItem from="1733454368805" duration="4196000" />
       <workItem from="1733459395035" duration="5673000" />
-      <workItem from="1733656874348" duration="5465000" />
+      <workItem from="1733656874348" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="frst_commite">
       <option name="closed" value="true" />
@@ -175,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733657201454</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Afisha and Contact finesh">
+      <option name="closed" value="true" />
+      <created>1733662603496</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733662603496</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="afisha" />
     <MESSAGE value="AFISHA-FINISH" />
     <MESSAGE value="CALENDAR AND NEWS -FINISH" />
-    <option name="LAST_COMMIT_MESSAGE" value="CALENDAR AND NEWS -FINISH" />
+    <MESSAGE value="Afisha and Contact finesh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Afisha and Contact finesh" />
   </component>
 </project>
