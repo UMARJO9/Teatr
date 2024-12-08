@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="IMG-HEADER-FINISH">
+    <list default="true" id="c93a2d08-e601-46cd-803b-313c6e220dca" name="Changes" comment="AFISHA-FINISH">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/container-calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/container-calendar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -97,7 +97,16 @@
       <workItem from="1732381997782" duration="1749000" />
       <workItem from="1732388138258" duration="84000" />
       <workItem from="1732552476865" duration="5810000" />
-      <workItem from="1732590855690" duration="6242000" />
+      <workItem from="1732590855690" duration="7231000" />
+      <workItem from="1732849452909" duration="3040000" />
+      <workItem from="1732852987839" duration="1113000" />
+      <workItem from="1732854256664" duration="5295000" />
+      <workItem from="1732900413508" duration="407000" />
+      <workItem from="1732903145228" duration="131000" />
+      <workItem from="1732936008433" duration="8128000" />
+      <workItem from="1733284094409" duration="360000" />
+      <workItem from="1733454368805" duration="4196000" />
+      <workItem from="1733459395035" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="frst_commite">
       <option name="closed" value="true" />
@@ -139,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732557433655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="afisha">
+      <option name="closed" value="true" />
+      <created>1732599467937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732599467937</updated>
+    </task>
+    <task id="LOCAL-00007" summary="AFISHA-FINISH">
+      <option name="closed" value="true" />
+      <created>1732854394072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732854394072</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +190,8 @@
     <MESSAGE value="Menu-Finish-1" />
     <MESSAGE value="IMG-HEADER" />
     <MESSAGE value="IMG-HEADER-FINISH" />
-    <option name="LAST_COMMIT_MESSAGE" value="IMG-HEADER-FINISH" />
+    <MESSAGE value="afisha" />
+    <MESSAGE value="AFISHA-FINISH" />
+    <option name="LAST_COMMIT_MESSAGE" value="AFISHA-FINISH" />
   </component>
 </project>

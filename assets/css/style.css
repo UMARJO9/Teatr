@@ -33,11 +33,10 @@ header h1 {
     margin: 120px;
     display: flex;
     align-items: center;
-
 }
 .img-afisha{
     margin-inline-end: 20px;
-    margin-left: 877px;
+    margin-left: 777px;
 }
 
 .container-2{
@@ -160,4 +159,68 @@ header h1 {
 }
 .event-info p {
     font-size: 20px;
+}
+.container-4 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.events-1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    margin: 105px;
+
+}
+.event-1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.date {
+    font-family: 'EB Garamond', serif;
+    background-color: #00a78e;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.description {
+    font-weight: bold;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    color: #191919;
+    margin: 0;
+}
+
+
+.h1-anons-2 {
+    font-family: 'EB Garamond', serif;
+    color: #191919;
+    font-size: 34px;
+}
+
+.anos {
+    margin: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-afisha {
+    margin-inline-end: 20px;
+    margin-left: auto;
 }
