@@ -224,3 +224,58 @@ h1 {
     margin-inline-end: 20px;
     margin-left: auto;
 }
+.h1-afisha-3{
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    margin-top: 70px;
+
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+.container {
+    font-family: 'EB Garamond', serif;
+    height: auto;
+    margin: 160px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.info, .contacts {
+    width: 45%;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #444;
+}
+
+p {
+    margin: 15px 4px 15px;
+}
+.map {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.map iframe {
+    width: 50%;
+    height: 400px;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba(28, 26, 26, 0.1);
+}
